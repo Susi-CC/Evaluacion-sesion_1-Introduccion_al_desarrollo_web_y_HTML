@@ -1,4 +1,5 @@
-# Evaluación de la sesión 1 "Introduccion al desarrollo web y HTML" del bootcamp "Desarrollo de aplicaciones Full Stack JavaScript" de Edutecno.
+# Evaluación del módulo 2, sesión 1: "Introduccion al desarrollo web y HTML"
+# Bootcamp "Desarrollo de aplicaciones Full Stack JavaScript" de Edutecno.
 
 El trabajo consistía en hacer una página bibliográfica de Leonardo da Vinci.
 
